@@ -1,4 +1,7 @@
 {
-  "Assets.NAME[CarProp]": "Example Name",
-  "Assets.DESCRIPTION[CarProp]": "Example Description"
+  "Assets.NAME[MioCircularPack]": "Mio Circular Pack",
+  "Assets.DESCRIPTION[MioCircularPack]": "Mio Circular Pack",
+
+  "Assets.NAME[MioCircularParkingLot]": "Mio Circular Parking Lot",
+  "Assets.DESCRIPTION[MioCircularParkingLot]": "Mio Circular Parking Lot"
 }
